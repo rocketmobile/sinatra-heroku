@@ -6,3 +6,4 @@ gem 'sprockets'
 
 gem 'coffee-script'
 gem 'sass'
+gem 'heroku'
